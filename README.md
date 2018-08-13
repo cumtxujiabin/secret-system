@@ -1,10 +1,10 @@
 # secret-system
 ##README.md
-> *** author: dbapp_zhinianyuxin.com
+> *** author: cib_zhinianyuxin.com
 
 It's just a system which is not completed , there are some tips:
 
-1. you can use test/dbappsecurity_123 to login ,but you are not admin!
+1. you can use test/cib_sec to login ,but you are not admin!
 2. only admin can upload file ,but whichone can not bypass my rules.
 
 ```
