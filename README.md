@@ -14,6 +14,6 @@ $sign = array(
                     'name'=>$model->username,
                     'sign'=>md5($model->id.$model->username),
                 );
-$_COOKIE['cib'] = serialize($sign);
+$_COOKIE['Cib_security'] = serialize($sign);
 **/
 ```
